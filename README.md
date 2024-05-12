@@ -4,13 +4,13 @@
 
 # KingsVape | Warehouse Management and Sells Application
 
-Sells system and warehouse management application writed in ![Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate).
+Sells system and warehouse management application writed in ![Electron]([https://www.electronjs.org/]).
 
 
 
 ## Overwiew
 
-Project made by OgRepDev for KingsVape store in Strzelce Krajeńskie in Poland. The application aims to optimize the inventory of goods in the store and, through the sales system, arrange charts to analyze the best sales tactics. I worked on the project for 2 months and today it presents the latest version 2.0 with corrected errors and a changed design.
+Project made by OgRepDev for KingsVape store in Strzelce Krajeńskie in Poland. The application aims to optimize the inventory of goods in the store and, through the sales system, arrange charts to analyze the best sales tactics. I worked on the project for 3 months and today it presents the latest version 2.0 (rewrited in 2 days because of migration from MongoDB to Firebase) with corrected errors and a changed design.
 
 Repo is for portfolio for React Developer.
 
@@ -20,7 +20,7 @@ Repo is for portfolio for React Developer.
 Install App with npm
 
 ```bash
-  git clone https://github.com/OgRepDev/electron-KingsVape.git
+  git clone https://github.com/OgRepDev/electron-kingsvape.git
   npm install
 ```
     
@@ -41,29 +41,20 @@ Install App with npm
 
 - ECharts (Lib)
 
-- Ant Design (Lib) for styled components
-
 - Lucide Icons (Lib)
-
-- React Icons (lib)
 
 ## Database
 
-- MongoDB (AtlasDB provider)
+- Firestore (Firebase)
 
 ## + TODO
 
 - Add image for each record
-- Mobile app
+- Mobile app (In React Native)
 - Notification System
 
 ## Screenshots
 
-![ScreenShotKingsVape1](https://github.com/OgRepDev/electron-KingsVape/assets/137503655/c8ec7384-5f27-450d-abb0-70062fdac24d)
-
-![ScreenShotKingsVape2](https://github.com/OgRepDev/electron-KingsVape/assets/137503655/3aec34c6-2dad-4708-a16d-a51e984e5fef)
-
-![ScreenShotKingsVape3](https://github.com/OgRepDev/electron-KingsVape/assets/137503655/2496553f-4c2e-42fd-81d1-0901200eadad)
 
 
 

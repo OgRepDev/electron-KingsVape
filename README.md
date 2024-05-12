@@ -4,7 +4,7 @@
 
 # KingsVape | Warehouse Management and Sells Application
 
-Sells system and warehouse management application writed in ![Electron]([https://www.electronjs.org/]).
+Sells system and warehouse management application writed in Electron.
 
 
 

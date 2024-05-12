@@ -35,6 +35,8 @@ Install App with npm
 
 ## Technologies that are used
 
+- Electron (Framework)
+
 - React (Framework)
 
 - Tailwind CSS (CSS Framework)

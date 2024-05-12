@@ -1,5 +1,5 @@
 
-![MuffinXKingsVape](https://github.com/OgRepDev/electron-KingsVape/assets/137503655/234a4c13-eb22-4d2d-9521-86262821c264)
+![MuffinXKingsVape](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/7b0ca7be-2677-4d6d-a621-29aa3da942b3)
 
 
 # KingsVape | Warehouse Management and Sells Application
@@ -57,7 +57,20 @@ Install App with npm
 
 ## Screenshots
 
+# Warehouse Screen
+![KingsVapeWarehouseScreen](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/0a355563-70a5-40cb-80dd-f89ad0775acb)
 
+# Dashboard Screen
+![KingsVapeDashboardScreen](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/0e4a61b7-d95e-4357-b1bd-cc30e739fbb6)
+
+# Raports Screen
+![KingsVapeRaportsScreen](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/2c5c1f89-f488-4031-96b8-039e4e4dd290)
+
+# Add new product Screen
+![KingsVapeAddNewProductScreen](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/dde9a0ac-21af-4101-81db-b23b4bdc8ef9)
+
+# Sell Screen
+![KingsVapeSellScreen](https://github.com/OgRepDev/electron-kingsvape/assets/137503655/da1ff7e4-f46f-47b9-871d-3b413638327d)
 
 
 ## Authors
